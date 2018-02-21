@@ -20,8 +20,12 @@ describe('define', function () {
   })
 
   it('Define', async () => {
-    const ctx = ponContext({})
-    const task = define({})
+    const ctx = ponContext({
+
+    })
+    const task = define({
+      filename: 'tmp/test-CHANGELOG.md'
+    })
     ok(task)
 
     await Promise.resolve(task(ctx))
