@@ -1,0 +1,48 @@
+{
+  "name": "pon-task-changelog",
+  "version": "1.0.0",
+  "description": "Pon task to generate CHANGELOG",
+  "main": "lib",
+  "browser": "shim/browser",
+  "scripts": {
+    "prepare": "node ./ci/build.js && node ./ci/shim.js ",
+    "test": "node ./ci/test.js"
+  },
+  "repository": "realglobe-Inc/pon-task-changelog",
+  "keywords": [
+    "Pon"
+  ],
+  "author": {
+    "name": "okunishinishi",
+    "email": "okunishinishi@gmail.com",
+    "url": "http://okunishitaka.com"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/realglobe-Inc/pon-task-changelog/issues"
+  },
+  "homepage": "https://github.com/realglobe-Inc/pon-task-changelog#readme",
+  "dependencies": {
+    "amkdirp": "^2.0.0",
+    "conventional-changelog-core": "^2.0.4"
+  },
+  "devDependencies": {
+    "ababel": "^4.0.7",
+    "amocha": "^5.0.0",
+    "ape-doc": "^2.0.4",
+    "ape-formatting": "^1.0.2",
+    "ape-releasing": "^4.0.4",
+    "ape-tasking": "^4.0.9",
+    "ape-tmpl": "^6.0.6",
+    "ape-updating": "^4.1.0",
+    "coz": "^6.0.20",
+    "injectmock": "^2.0.0",
+    "pon-context": "^2.0.1",
+    "pon-doc": "^2.0.1",
+    "sugos-travis": "^2.0.7"
+  },
+  "engines": {
+    "node": ">=8",
+    "npm": ">=4"
+  }
+}
