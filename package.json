@@ -1,6 +1,6 @@
 {
   "name": "pon-task-changelog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pon task to generate CHANGELOG",
   "main": "lib",
   "browser": "shim/browser",
