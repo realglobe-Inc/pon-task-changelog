@@ -79,10 +79,10 @@ const ponTaskChangelog = require('pon-task-changelog')
 
 ;(async () => {
   let run = pon({
-    myTask01: ponTaskChangelog()
+    changelog: ponTaskChangelog()
   })
 
-  run('myTask01')
+  run('changelog')
 }).catch((err) => console.error(err))
 
 ```
