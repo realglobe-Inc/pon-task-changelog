@@ -1,6 +1,6 @@
 {
   "name": "pon-task-changelog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pon task to generate CHANGELOG",
   "main": "lib",
   "browser": "shim/browser",
@@ -24,20 +24,20 @@
   "homepage": "https://github.com/realglobe-Inc/pon-task-changelog#readme",
   "dependencies": {
     "amkdirp": "^2.0.0",
-    "conventional-changelog-core": "^2.0.4"
+    "conventional-changelog-core": "^3.0.0"
   },
   "devDependencies": {
-    "ababel": "^4.0.7",
+    "ababel": "^4.0.9",
     "amocha": "^5.0.0",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^1.0.2",
     "ape-releasing": "^4.0.4",
     "ape-tasking": "^4.0.9",
     "ape-tmpl": "^6.0.6",
-    "ape-updating": "^4.1.0",
-    "coz": "^6.0.20",
+    "ape-updating": "^5.0.1",
+    "coz": "^7.0.2",
     "injectmock": "^2.0.0",
-    "pon-context": "^2.0.1",
+    "pon-context": "^3.0.2",
     "pon-doc": "^2.0.1",
     "sugos-travis": "^2.0.7"
   },
