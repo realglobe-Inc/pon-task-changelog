@@ -1,6 +1,6 @@
 {
   "name": "pon-task-changelog",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Pon task to generate CHANGELOG",
   "main": "lib",
   "browser": "shim/browser",
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/realglobe-Inc/pon-task-changelog#readme",
   "dependencies": {
     "amkdirp": "^2.0.0",
-    "auto-changelog": "^1.7.1",
+    "auto-changelog": "^1.7.2",
     "pon-task-command": "^3.1.1"
   },
   "devDependencies": {
@@ -44,6 +44,6 @@
   },
   "engines": {
     "node": ">=8",
-    "npm": ">=4"
+    "npm": ">=5"
   }
 }
