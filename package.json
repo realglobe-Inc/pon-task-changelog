@@ -24,7 +24,7 @@
   "homepage": "https://github.com/realglobe-Inc/pon-task-changelog#readme",
   "dependencies": {
     "amkdirp": "^2.0.0",
-    "auto-changelog": "^1.7.2",
+    "auto-changelog": "^1.8.1",
     "pon-task-command": "^3.1.1"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "amocha": "^5.0.0",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^1.0.2",
-    "ape-releasing": "^4.0.4",
+    "ape-releasing": "^5.0.0",
     "ape-tasking": "^4.0.9",
     "ape-tmpl": "^6.0.6",
     "ape-updating": "^5.0.1",
