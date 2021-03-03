@@ -24,8 +24,8 @@
   "homepage": "https://github.com/realglobe-Inc/pon-task-changelog#readme",
   "dependencies": {
     "amkdirp": "^2.0.0",
-    "auto-changelog": "^1.8.1",
-    "pon-task-command": "^3.1.1"
+    "auto-changelog": "^2.2.1",
+    "pon-task-command": "^3.1.8"
   },
   "devDependencies": {
     "ababel": "^4.0.9",
