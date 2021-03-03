@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/realglobe-Inc/pon-task-changelog#readme",
   "dependencies": {
-    "amkdirp": "^2.0.0",
     "auto-changelog": "^2.2.1",
     "pon-task-command": "^3.1.8"
   },
