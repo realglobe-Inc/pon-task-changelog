@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "ababel": "^4.0.9",
-    "amocha": "^5.0.2",
+    "amocha": "^7.1.2",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^1.0.2",
     "ape-releasing": "^5.0.7",
