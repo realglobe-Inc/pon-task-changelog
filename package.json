@@ -27,7 +27,7 @@
     "pon-task-command": "^3.1.8"
   },
   "devDependencies": {
-    "ababel": "^4.0.9",
+    "ababel": "^6.1.5",
     "amocha": "^5.0.2",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^1.0.2",
